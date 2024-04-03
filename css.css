@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    background-color: black;
+    border-radius: 13%;
+}
+#btn1{
+    background-color: rgb(222, 187, 10);
+}
+.btn{
+    padding: 27px;
+    background-color: rgb(62, 62, 62);
+    color: aliceblue;
+    margin:0.5rem;
+    border-radius: 42%;
+    font-size: 25px;
+    
+}
+.row{
+    margin: 1rem;
+}
+.input{
+    margin:0;
+    padding-left: 65px;
+    padding-top:32px;
+    font-size: 15px;
+    
+}
+.btn:hover{
+    box-shadow: 0 0 15px rgb(98, 98, 98);
+}
+#c{
+   background-color: red;
+}
+input::placeholder{
+    font-size: x-large;
+}
